@@ -1,4 +1,4 @@
-![Banner Image](./media/banner.jpg)
+![Banner Image](media/banner.jpg)
 
 # NeuraTech
 
