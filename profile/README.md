@@ -1,6 +1,6 @@
-# NeuraTech
+![Banner Image](./media/banner.jpg)
 
-!NeuraTech Logo
+# NeuraTech
 
 ## Pioneering Innovation in Technology
 
