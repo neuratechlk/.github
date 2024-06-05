@@ -1,4 +1,4 @@
-![banner](https://github.com/neuratechlk/.github/assets/79928743/1f560917-ee59-4176-85cd-20200886614e)
+![banner](https://github.com/neuratechlk/.github/assets/79928743/504df386-f2c5-4ff1-a495-5e60e50831a0)
 
 # NeuraTech
 
