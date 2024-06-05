@@ -19,11 +19,11 @@ At NeuraTech, we are committed to leading the charge in technological innovation
 
 ### Vision
 
-"Revolutionizing technology to navigate and eliminate barriers, paving the way for innovative breakthroughs."
+"Invent new technologies that eliminate obstacles, transforming challenges into opportunities for groundbreaking innovation."
 
 ### Mission
 
-"Establishing NeuraTech as the premier technology powerhouse in Sri Lanka and beyond, synonymous with innovation, quality, and excellence."
+"To be Sri Lanka's top tech giant and a globally recognized leader. Through innovation and excellence."
 
 ### Our Offerings
 
